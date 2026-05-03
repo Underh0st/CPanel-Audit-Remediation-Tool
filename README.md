@@ -65,4 +65,4 @@ The tool guides the administrator through a professional incident response proto
 *Figure 3: Professional 5-phase Incident Response Manual detailing system sanitization and hardening.*
 
 Author
-Oscar Constanzo Q. (Underhost) - OFFENSIVE HACKER SINCE 2011
+Oscar Constanzo Quezada. (Underhost) - OFFENSIVE HACKER SINCE 2011
