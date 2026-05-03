@@ -6,6 +6,7 @@
 > **Professional Security Auditing & Incident Response Suite for cPanel Infrastructure.**
 
 ---
+![Banner](img/banner.png)
 
 ## 📖 Description
 
