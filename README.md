@@ -9,16 +9,17 @@
 
 ## 📖 Description
 
-This tool was developed by ** Oscar Constanzo, AKA Underhost** to identify and remediate the **CVE-2026-41940** vulnerability in cPanel servers.[cite: 1] The flaw allows an **Authentication Bypass** via HTTP session header injection, enabling an attacker to gain full administrative (root) privileges without a valid password.[cite: 1]
+This tool was developed by Oscar Constanzo, AKA Underhost to identify and remediate the CVE-2026-41940 vulnerability in cPanel servers. The flaw allows an **Authentication Bypass** via HTTP session header injection, enabling an attacker to gain full administrative (root) privileges without a valid password.
 
 ---
 
 ## 🚀 Key Features
 
-*   **Signature Audit:** Fast scanning to detect vulnerable cPanel versions.[cite: 1]
-*   **Risk Assessment:** Integrated technical impact analysis explaining the danger to the infrastructure.[cite: 1]
-*   **Response Manual:** A 5-phase guide for system sanitization and hardening.[cite: 1]
-*   **Persistence:** Persistent scanning loop for multiple targets.[cite: 1]
+*   **THIS TOOL IS CREATED IN SPANISH
+*   **Signature Audit:** Fast scanning to detect vulnerable cPanel versions.
+*   **Risk Assessment:** Integrated technical impact analysis explaining the danger to the infrastructure.
+*   **Response Manual:** A 5-phase guide for system sanitization and hardening.
+*   **Persistence:** Persistent scanning loop for multiple targets.
 
 ---
 ⚠️ Legal Disclaimer
