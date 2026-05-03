@@ -29,10 +29,13 @@ THIS TOOL IS PROVIDED FOR EDUCATIONAL AND ETHICAL AUDITING PURPOSES ONLY.[cite: 
 ## 🛠️ Installation
 ```bash
 # Clone the repository
-git clone [https://github.com/Underh0st/CPanel-Audit-Remediation-Tool.git](https://github.com/Underh0st/CPanel-Audit-Remediation-Tool.git)
+git clone https://github.com/Underh0st/CPanel-Audit-Remediation-Tool.git
+
+# Enter the directory
+cd CPanel-Audit-Remediation-Tool
 
 # Install dependencies
-pip3 install colorama requests urllib3
+pip3 install -r requirements.txt
 
 # Run the script
 python3 ART.py
