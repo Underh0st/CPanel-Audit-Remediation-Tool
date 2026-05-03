@@ -56,5 +56,13 @@ The tool guides the administrator through a professional incident response proto
 
 5.Hardening: Enable cPHulk and Multi-Factor Authentication (MFA).
 
+### Vulnerability Analysis
+![Detection](img/detection.png)
+*Figure 2: Active scanning module successfully identifying CVE-2026-41940 and generating a risk assessment.*
+
+### Incident Response Manual
+![Remediation](img/manual.png)
+*Figure 3: Professional 5-phase Incident Response Manual detailing system sanitization and hardening.*
+
 Author
-Oscar Constanzo Q. (Underhost) - Security Logic & Development
+Oscar Constanzo Q. (Underhost) - OFFENSIVE HACKER SINCE 2011
